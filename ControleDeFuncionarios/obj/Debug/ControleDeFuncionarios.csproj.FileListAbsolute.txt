@@ -1,0 +1,5 @@
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\ControleDeFuncionarios\ControleDeFuncionarios\obj\Debug\ControleDeFuncionarios.csprojAssemblyReference.cache
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\ControleDeFuncionarios\ControleDeFuncionarios\obj\Debug\ControleDeFuncionarios.Form1.resources
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\ControleDeFuncionarios\ControleDeFuncionarios\obj\Debug\ControleDeFuncionarios.Properties.Resources.resources
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\ControleDeFuncionarios\ControleDeFuncionarios\obj\Debug\ControleDeFuncionarios.csproj.GenerateResource.cache
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\ControleDeFuncionarios\ControleDeFuncionarios\obj\Debug\ControleDeFuncionarios.csproj.CoreCompileInputs.cache
